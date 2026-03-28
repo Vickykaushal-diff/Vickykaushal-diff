@@ -1,5 +1,7 @@
 # 💫 About Me:
-Mathematics & Computing student @ RGIPT | AI/ML Enthusiast<br>Built real-world systems using ML, TinyML & optimization<br>Ex-IIT Ropar Intern (May–July 2025)<br>Tech: Python, TensorFlow, FastAPI, React, Docker
+I am a 3rd-year B.Tech student in Mathematics and Computing at RGIPT, Jais (an Institution of National Importance), with a strong foundation in mathematics, data structures, and AI/ML. I enjoy building intelligent, real-world systems, especially at the intersection of AI, embedded systems, and optimization.
+
+Currently, I am deepening my expertise in Generative AI and Large Language Models (LLMs) to build next-generation AI applications.
 
 
 ## 🌐 Socials:

@@ -98,13 +98,3 @@ Currently deepening my expertise in **Generative AI and Large Language Models (L
 ![snake gif](https://github.com/Vickykaushal-diff/Vickykaushal-diff/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=Vickykaushal-diff&icon=5&color=6)](https://visitcount.itsvg.in)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:185fa5,100:0f6e56&height=120&section=footer"/>
-
-</div>

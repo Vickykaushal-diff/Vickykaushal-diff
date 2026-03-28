@@ -18,13 +18,6 @@ Currently deepening my expertise in **Generative AI and Large Language Models (L
 
 ---
 
-## 🌐 Social Media
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-sharma-26aa0128a/)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KaushalSha99267)
-
----
-
 ## 💻 Tech Stack
 
 ### 🧠 AI / ML

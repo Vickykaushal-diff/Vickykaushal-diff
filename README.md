@@ -70,17 +70,18 @@ Currently deepening my expertise in **Generative AI and Large Language Models (L
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Vickykaushal-diff&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Vickykaushal-diff&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-stats-alpha.vercel.app/api?username=Vickykaushal-diff&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Vickykaushal-diff&theme=tokyonight&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 </div>
 

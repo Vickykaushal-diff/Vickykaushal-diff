@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=3rd+Year+B.Tech+%7C+Mathematics+%26+Computing+%40+RGIPT;Building+intelligent+real-world+systems;Exploring+Generative+AI+%26+LLMs;AI+/+ML+%2B+Embedded+Systems+%2B+Optimization)](https://git.io/typing-svg)
 
 </div>
+
 ---
 
 ## 💫 About Me

@@ -99,9 +99,6 @@ Currently deepening my expertise in **Generative AI and Large Language Models (L
 
 </div>
 
-> ⚡ To enable the snake animation, add this GitHub Action to your profile repo:
-> `.github/workflows/snake.yml` → use [this action](https://github.com/Platane/snk)
-
 ---
 
 <div align="center">

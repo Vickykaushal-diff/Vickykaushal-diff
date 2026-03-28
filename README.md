@@ -2,10 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:185fa5&height=200&section=header&text=Kaushal%20Sharma&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Generative%20AI%20%7C%20DevOps&descAlignY=55&descSize=18" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=3rd+Year+B.Tech+%7C+Mathematics+%26+Computing+%40+RGIPT;Building+intelligent+real-world+systems;Exploring+Generative+AI+%26+LLMs;AI+%2B+Embedded+Systems+%2B+Optimization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1D9E75&center=true&vCenter=true&width=650&lines=3rd+Year+B.Tech+%7C+Mathematics+%26+Computing+%40+RGIPT;Building+intelligent+real-world+systems;Exploring+Generative+AI+%26+LLMs;AI+/+ML+%2B+Embedded+Systems+%2B+Optimization)](https://git.io/typing-svg)
 
 </div>
-
 ---
 
 ## 💫 About Me
@@ -18,7 +17,7 @@ Currently deepening my expertise in **Generative AI and Large Language Models (L
 
 ---
 
-## 🌐 Socials
+## 🌐 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaushal-sharma-26aa0128a/)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/KaushalSha99267)

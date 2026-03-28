@@ -72,8 +72,8 @@ Currently deepening my expertise in **Generative AI and Large Language Models (L
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vickykaushal-diff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickykaushal-diff&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vickykaushal-diff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vickykaushal-diff&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 
 </div>
 
@@ -85,29 +85,22 @@ Currently deepening my expertise in **Generative AI and Large Language Models (L
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Vickykaushal-diff&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=Vickykaushal-diff&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 [![Kaushal's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Vickykaushal-diff&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Vickykaushal-diff/Vickykaushal-diff/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> ⚡ To enable the snake animation, add this GitHub Action to your profile repo:
+> `.github/workflows/snake.yml` → use [this action](https://github.com/Platane/snk)
 
 ---
 

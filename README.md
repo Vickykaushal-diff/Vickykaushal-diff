@@ -10,7 +10,7 @@
 
 ## 💫 About Me
 
-I am a **3rd-year B.Tech student** in Mathematics and Computing at **RGIPT, Jais** (an Institution of National Importance), with a strong foundation in mathematics, data structures, and AI/ML.
+I am a **4th-year B.Tech student** in Mathematics and Computing at **RGIPT, Jais** (an Institution of National Importance), with a strong foundation in mathematics, data structures, and AI/ML.
 
 I enjoy building intelligent, real-world systems — especially at the intersection of **AI, embedded systems, and optimization**.
 
